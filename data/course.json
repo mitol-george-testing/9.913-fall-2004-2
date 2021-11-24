@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f4100789-8024-269c-3832-ff2e04626b90",
+      "923c47b4-5b3e-9e86-123a-74ec9021459c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Pattern Recognition for Machine Vision",
+  "course_description": "The applications of pattern recognition techniques to problems of machine vision is the main focus for this course. Topics covered include, an overview of problems of machine vision and pattern classification, image formation and processing, feature extraction from images, biological object recognition, bayesian decision theory, and clustering.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.913",
+  "learning_resource_types": [
+    "Simulation Videos",
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
